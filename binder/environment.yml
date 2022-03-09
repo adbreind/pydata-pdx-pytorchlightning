@@ -3,7 +3,7 @@ channels:
   - pytorch
   - conda-forge
 dependencies:
-  - python==3.7
+  - python==3.7.11
   - pytorch
   - jupyterlab
   - pandas
