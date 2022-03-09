@@ -8,6 +8,7 @@ dependencies:
   - jupyterlab
   - pandas
   - ipywidgets
+  - jupyter-server-proxy
   - pip:
     - pytorch-lightning==1.4.9
     - tensorflow
