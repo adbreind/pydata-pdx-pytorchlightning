@@ -1,0 +1,13 @@
+name: pydata-pdx-pytorchlightning
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python==3.7.11
+  - pytorch
+  - jupyterlab
+  - pandas
+  - ipywidgets
+  - pip:
+    - pytorch-lightning==1.4.9
+    - tensorflow
